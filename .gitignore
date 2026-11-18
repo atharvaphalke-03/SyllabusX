@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# SyllabusX output (may contain scan results for real targets)
+reports/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
